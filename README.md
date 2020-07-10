@@ -10,9 +10,9 @@ Here something about me:
 
 And I'm full-stack developer:
  - 💜 In love with C#, always
- - 😁 Currently specializing in C# performance
+ - 😁 Currently specializing in C# Development
  - ❤️ I'm love Javascript/Typescript too
- - 🚀 Co-founder of Agile Click!
+ - 🚀 Co-founder of Line on Code!
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/alexalvess)
