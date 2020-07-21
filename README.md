@@ -1,6 +1,6 @@
 # Maurilio Filho 🤓
 
-## Hi there 👋! Welcome to my profile! <p align="left"> <img src=https://komarev.com/ghpvc/?username=mauriliofilho&colo=blue&style=flat-square alt=Maurilio Filho/> </p>
+## Hi there 👋! Welcome to my profile! ![](https://komarev.com/ghpvc/?username=mauriliofilho&color=blue&style=flat-square)
 
 Here something about me:
 
