@@ -4,7 +4,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [Kyros Consulting](www.kyros.com.br)
+- 🔭 I’m currently working on [everis](www.eveeris.com)
 - 🌱 I’m currently learning .NET performance
 - 👯 I’m looking to collaborate on with my C# knowledges
 
