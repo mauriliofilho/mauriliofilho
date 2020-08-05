@@ -4,7 +4,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [![everis](www.everis.com)]
+- 🔭 I’m currently working on [[everis](www.everis.com)]
 - 🌱 I’m currently learning .NET performance
 - 👯 I’m looking to collaborate on with my C# knowledges
 
