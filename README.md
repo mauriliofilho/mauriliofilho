@@ -4,7 +4,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on Software Engineer at <a href="http://www.everis.com">everis</a>
+- 🔭 I’m currently working on Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT DATA</a>
 - 🌱 I’m currently learning .NET performance
 - 👯 I’m looking to collaborate on with my C# knowledges
 
